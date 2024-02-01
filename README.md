@@ -1,5 +1,4 @@
-# Machine-Learning
-Autism Spectrum Disorder Screening
+# Machine-Learning project on Autism Spectrum Disorder Screening
 
 The goal of the Autism Screening and Assessment Clinic is to provide identification of Autism Spectrum Disorder (ASD) to inform intensive behavioral treatment, while addressing specific skill deficits and enhancing community inclusion.
 
